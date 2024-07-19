@@ -55,3 +55,21 @@ main {
     margin-top: 40px;
 }
 
+.content-tag {
+    display: inline-block;
+    background-color: var(--brand-color-dark);
+    padding: 4px 8px;
+    border-radius: 4px;
+
+    /* font-weight: 500;
+    font-size: 10px;
+    line-height: 12px; 
+    letter-spacing: 0.04em; (4%)
+    text-transform: uppercase;*/
+
+    font: 500 10px/1.2 var(--font-family);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-color-primary);
+    box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.25);
+}

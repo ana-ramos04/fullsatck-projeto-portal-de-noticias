@@ -16,3 +16,23 @@
 .gap-16 {
     gap: 16px;
 }
+
+/* .text-2xl = texto 2 vezes extra grande */
+.text-2xl {
+    font: var(--h1);
+}
+
+/* texto extra grande */
+.text-xl {
+    font: var(--h2);
+}
+
+/* texto grande */
+.text-lg {
+    font: var(--h3);
+}
+
+/* texto pequeno */
+.text-sm {
+    font: var(--text-sm);
+}

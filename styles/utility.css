@@ -4,7 +4,7 @@
     display: grid;
 }
 
-/* grid fluxo coluna / grid-flow-columns */
+/* grid no fluxo de coluna / grid-flow-columns */
 .grid-flow-col {
     grid-auto-flow: column;
 }
